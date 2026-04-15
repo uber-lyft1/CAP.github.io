@@ -1,0 +1,18 @@
+nav{
+    padding: 25px;
+    background-color: cornflowerblue;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    padding: 25px;
+    background-color: rgb(243, 215, 137);
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    margin: 15px;
+}
