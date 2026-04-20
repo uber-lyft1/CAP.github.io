@@ -14,5 +14,6 @@ a:hover{
 }
 
 a{
+    text-decoration: none;
     margin: 15px;
 }
